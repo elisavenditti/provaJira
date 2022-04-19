@@ -1,5 +1,7 @@
 public class HelloWorld {
     public main(String argv[]){
         System.out.println("Hello bitches! >_<");
+        System.out.println("Github is amazign");
+        System.out.println("1+1=3");
     }
 }
